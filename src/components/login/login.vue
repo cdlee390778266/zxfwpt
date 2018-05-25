@@ -23,7 +23,7 @@
                 <a href="javascript: void(0);" id="anonymous">匿名登录</a>
             </div>
             <div class="login-row tc login-reg">
-                还没有账号？<a href="./tpls/reg/reg.html">马上注册</a>
+                还没有账号？<router-link to="/register">马上注册</router-link>
             </div>
         </div>
         <div class="login-error">

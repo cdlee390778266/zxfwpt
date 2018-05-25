@@ -316,7 +316,7 @@ export default {
   .login, .login-dialog {
       background: url(./assets/images/login_bg.png) no-repeat;
       background-size: cover;
-      min-height: 750px;
+      min-height: 1000px;
       form, .login-dialog-box {
       position: absolute;
       top: 50%;
